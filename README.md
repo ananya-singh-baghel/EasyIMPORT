@@ -2,7 +2,7 @@
 
 ## Overview
 
-EasyIMPORT is a Google Sheets extension that simplifies the process of importing CSV data column wise into your Google Sheets documents. It also allows you to filter the data before importing it.
+EasyIMPORT is a Google Sheets extension that simplifies the process of importing CSV data column wise into your Google Sheets documents. It also allows you to filter the data before importing it. 
 
 ## Features
 
