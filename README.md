@@ -63,7 +63,7 @@ In addition to the Google Sheets add-on, I have also created a dedicated web pag
 This extension uses the [PapaParse library](https://github.com/mholt/PapaParse) for CSV parsing.
 
 ## Screenshots
-![image](![image1](https://github.com/ananya-singh-baghel/EasyIMPORT/assets/76189053/7fb53a97-7633-4a2c-9132-873ee695ea99)) 
+![image1](https://github.com/ananya-singh-baghel/EasyIMPORT/assets/76189053/7fb53a97-7633-4a2c-9132-873ee695ea99)
 ![logo2](https://github.com/ananya-singh-baghel/EasyIMPORT/assets/76189053/e803903d-7930-46ba-9261-1f2e1e74085a)
 
 
